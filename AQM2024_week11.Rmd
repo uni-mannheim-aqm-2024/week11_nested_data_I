@@ -148,7 +148,7 @@ We will replicate (although not exactly) some of the results from an article by 
 
 ![George Ward (2020)](images/ward_ajps_abstract.png)
 
-Ward is interested in a quite straightforward question: *Is Happiness a Predictor of Election Results?*, or more specifically: *Do government parties get more votes when the electorate is happy?* Ward uses observational data to find an answer to this question. He did both micro and macro level analyses. We will focus on the macro level analysis.
+Ward is interested in a quite straightforward question: *Is happiness a predictor of election results?*, or more specifically: *Do government parties get more votes when the electorate is happy?* Ward uses observational data to find an answer to this question. He did both micro and macro level analyses. We will focus on the macro level analysis.
 
 ```{r}
 load("raw-data/ward_macro.Rdata")
